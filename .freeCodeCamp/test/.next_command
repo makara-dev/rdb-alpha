@@ -240,3 +240,4 @@ psql --username=freecodecamp --dbname=postgres
 ./insert_data.sh
 ./queries.sh
 ./queries.sh
+./queries.sh
